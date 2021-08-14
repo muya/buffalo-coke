@@ -1,10 +1,10 @@
 ---
 development:
-  dialect: postgres
+  dialect: mysql
   database: coke_development
-  user: postgres
-  password: postgres
-  host: 127.0.0.1
+  user: buffalodev
+  password: "pAZg5Fm2cKF^"
+  host: dev
   pool: 5
 
 test:
